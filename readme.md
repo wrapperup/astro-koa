@@ -4,7 +4,8 @@ HIGHLY EXPERIMENTAL! Use at your own risk.
 Based on https://github.com/matthewp/astro-fastify/
 
 ## Demo
-https://user-images.githubusercontent.com/7478134/235583490-b58ee25e-bc81-4db1-8840-2b75d1cf47ca.mp4
+
+https://user-images.githubusercontent.com/7478134/235599893-86b95a05-584c-4497-9c49-1493da1418b5.mp4
 
 ## Features
 - Embed your entire Koa app
