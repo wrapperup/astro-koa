@@ -1,0 +1,35 @@
+{
+  "name": "@wrapperup/astro-koa",
+  "version": "0.1.0",
+  "description": "Koa integration for Astro",
+  "author": "wrapperup",
+  "main": "lib/index.js",
+  "types": "lib/types.d.ts",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "astro"
+  ],
+  "peerDependencies": {
+    "astro": "next--middleware"
+  },
+  "dependencies": {
+    "@astrojs/webapi": "^1.0.0",
+    "@fastify/static": "^6.5.0",
+    "koa": "^2.14.2",
+    "koa-compose": "^4.1.0",
+    "koa-mount": "^4.0.0",
+    "koa-static": "^5.0.0",
+    "on-finished": "^2.4.1",
+    "statuses": "^2.0.1"
+  },
+  "devDependencies": {
+    "astro": "next--middleware"
+  }
+}
