@@ -17,7 +17,7 @@
     "astro"
   ],
   "peerDependencies": {
-    "astro": "next--middleware"
+    "astro": "link:..\\astro\\packages\\astro"
   },
   "dependencies": {
     "@astrojs/webapi": "^1.0.0",
@@ -30,6 +30,6 @@
     "statuses": "^2.0.1"
   },
   "devDependencies": {
-    "astro": "next--middleware"
+    "astro": "link:..\\astro\\packages\\astro"
   }
 }
