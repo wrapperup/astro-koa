@@ -21,7 +21,6 @@
   },
   "dependencies": {
     "@astrojs/webapi": "^1.0.0",
-    "@fastify/static": "^6.5.0",
     "koa": "^2.14.2",
     "koa-compose": "^4.1.0",
     "koa-mount": "^4.0.0",
